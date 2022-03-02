@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form method="POST" action="/emp">
+{% csrf_token %}
+<div>
+    <br>
+    <p> Employee ID:</p>{{form.eid}}
+</div>
+<div>
+    <br>
+    <p> Employee Name:</p>{{form.ename}}
+</div>
+<div>
+    <br>
+    <p> Employee Email:</p>{{form.eemial}}
+</div>
+<div>
+    <br>
+    <p> Employee Contact:</p>{{form.econtact}}
+</div>
+<br>
+<button type="submit">Submit</button>
+</form>
+</body>
+</html>
+
