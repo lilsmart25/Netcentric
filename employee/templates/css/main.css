@@ -6,8 +6,9 @@
   font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
 }
 
+
 .font-poppins {
-  font-family: "Poppins", "Arial", "Helvetica Neue", sans-serif;
+  font-family: "Poppins", "Arial", "Iluobe Anthony", sans-serif;
 }
 
 /* ==========================================================================
@@ -239,9 +240,6 @@ h6 {
   max-width: 780px;
 }
 
-.wrapper--w680 {
-  max-width: 680px;
-}
 
 /* ==========================================================================
    #BUTTON
