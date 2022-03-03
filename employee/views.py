@@ -2,6 +2,7 @@ from django.shortcuts import redirect, render
 from employee.models import Employee
 from employee.forms import EmployeeForm
 
+
 def emp(request):
     if request.method == "POST":
         form=EmployeeForm(request.POST)
