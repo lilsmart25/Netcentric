@@ -1,3 +1,3 @@
 # Netcentric
 Group assignment - Epsilon
-CSC ASSIGNMENT 
+CSC Assignment Project 
